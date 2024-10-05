@@ -24,40 +24,34 @@ background-size: cover;
     width: 800px;
 }
 
-#a1 p {
-    width: 100px;
-    height: 40px;
-    display: inline;
-    background-color: aliceblue;
-    padding: 10px;
+#a1 {
+    width: 200px; /* Width of the box */ 
+    height: 100px; /* Height of the box */ 
+    border: 2px solid black; /* Border style */ 
+    background-color: white; /* Background color */ 
 }
 #a2 {
-    width: 100px;
-    height: 40px;
-    display: inline;
-    background-color: aliceblue;
-    padding: 10px;
+    width: 200px; /* Width of the box */ 
+    height: 100px; /* Height of the box */ 
+    border: 2px solid black; /* Border style */ 
+    background-color: white; /* Background color */ 
 }
 #a3 {
-    width: 100px;
-    height: 40px;
-    display: inline;
-    background-color: aliceblue;
-    padding: 10px;
+    width: 200px; /* Width of the box */ 
+    height: 100px; /* Height of the box */ 
+    border: 2px solid black; /* Border style */ 
+    background-color: white; /* Background color */ 
 }
 #a4 {
-    width: 100px;
-    height: 40px;
-    display: inline;
-    background-color: aliceblue;
-    padding: 10px;
-    border: 2px solid green;
+    width: 200px; /* Width of the box */ 
+    height: 100px; /* Height of the box */ 
+    border: 2px solid black; /* Border style */ 
+    background-color: white; /* Background color */ 
 }
 #a5 {
-    width: 100px;
-    height: 40px;
-    display: inline;
-    background-color: aliceblue;
-    padding: 10px;
+    width: 200px; /* Width of the box */ 
+    height: 100px; /* Height of the box */ 
+    border: 2px solid black; /* Border style */ 
+    background-color: white; /* Background color */ 
 }
 
